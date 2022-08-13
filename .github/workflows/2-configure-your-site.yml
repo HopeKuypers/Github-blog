@@ -50,3 +50,4 @@ jobs:
           from_step: 2
           to_step: 3
           branch_name: my-pages
+
